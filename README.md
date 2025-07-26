@@ -49,7 +49,7 @@ ConversAI CLI is an intelligent command-line chatbot that leverages state-of-the
 
 
 ### Interactive Conversation
-![Conversation Screenshot](screenshots/Conversation.png)
+![Conversation Screenshot](https://raw.githubusercontent.com/Harshvishwa123/ConverseAi/main/Conversation.png)
 *Example conversation showing context-aware responses and natural dialogue*
 
 
